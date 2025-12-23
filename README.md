@@ -4,21 +4,21 @@ Bachelor of Engineering (May 2025)
 Aspiring Data Scientist & AI Engineer | Java Full Stack Background  
 Pusad, Maharashtra, India  
 
-I am a recent engineering graduate with a strong interest in **Data Science, Machine Learning, and Applied AI**.  
-My approach is focused on **building practical projects, understanding fundamentals deeply, and writing clean, readable code**.
+I am a recent engineering graduate with a focused interest in **Data Science, Machine Learning, and Applied AI**.  
+My work emphasizes **practical problem-solving, strong fundamentals, and writing clean, maintainable code** rather than surface-level implementations.
 
-I have experience working across the **full development lifecycle** — from data preprocessing and model building to backend integration and frontend interfaces.
+I have experience across the **end-to-end development lifecycle**, including data preparation, model development, backend integration, and frontend interaction.
 
 ---
 
 ## Professional Summary
 
-- Strong foundation in **Python, Java, and core computer science concepts**
-- Hands-on experience with **machine learning and deep learning models**
-- Practical exposure to **Flask-based web applications** for ML deployment
+- Solid foundation in **Python, Java, and core computer science concepts**
+- Hands-on experience with **machine learning and deep learning workflows**
+- Practical exposure to **Flask-based web applications** for ML integration
 - Background in **Java Full Stack Development**
-- Comfortable working with **structured and unstructured data**
-- Preference for **clarity, correctness, and maintainable code**
+- Experience working with **structured and unstructured datasets**
+- Strong preference for **clarity, correctness, and readable code**
 
 ---
 
@@ -36,67 +36,70 @@ I have experience working across the **full development lifecycle** — from dat
 - Scikit-learn  
 - TensorFlow (CNN-based models)  
 - Data preprocessing & feature engineering  
-- Model evaluation and analysis  
+- Model evaluation and result interpretation  
 
 ### Web & Backend Development
 - HTML, CSS, JavaScript  
-- React (basic to intermediate)   
+- React (basic to intermediate)  
 - Flask  
-
 
 ### Databases
 - MySQL  
-- Oracle
+- Oracle  
 
 ### Tools & Platforms
 - Git & GitHub  
 - Postman  
 - Jupyter Notebook  
-- VS Code  
+- Visual Studio Code  
 
 ---
 
-## Key Projects
+## Selected Projects
 
-### Sentiment Analysis using Deep Learning
-- Built a **CNN-based sentiment analysis model** using TensorFlow  
+### Sentiment Analysis Using Deep Learning
+- Developed a **CNN-based sentiment analysis model** using TensorFlow  
 - Trained on a **YouTube comments dataset**
-- Implemented a **Flask web application** for real-time predictions  
-- Included user authentication (login & registration)
-- Focused on practical ML workflow rather than deployment scale
+- Built a **Flask web application** for real-time sentiment prediction
+- Implemented user authentication (login & registration)
+- Emphasis on **end-to-end ML workflow** rather than large-scale deployment
 
-### Frontend & Web Projects
+### Frontend & Web Applications
 - Uber Clone (HTML, CSS)  
 - Movie Website (HTML, CSS, JavaScript)  
 - Weather Application  
 - To-Do List Application  
 - GitHub Profile Finder  
 
-These projects helped strengthen my understanding of **UI logic, API handling, and frontend–backend interaction**.
+These projects strengthened my understanding of **frontend logic, API usage, and frontend–backend coordination**.
 
 ---
 
-## 📄 Research Paper
+## Research Publication
 
 **Exploring Sentiment Analysis through Deep Learning: A Comprehensive Review**  
-Published in *International Journal of Innovative Science and Research Technology (IJISRT)* — March 2025  
-🔗 https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf
+*International Journal of Innovative Science and Research Technology (IJISRT)*, March 2025  
+
+**Citation (APA):**  
+Ranvir, R., & Co-Author. (2025). *Exploring sentiment analysis through deep learning: A comprehensive review*.  
+International Journal of Innovative Science and Research Technology, 10(2).  
+https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf
+
 ---
 
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitranvir&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitranvir&theme=dark)
 
 ---
 
-## Currently Focused On
+## Current Focus
 
 - Strengthening machine learning fundamentals  
-- Improving model performance and evaluation techniques  
-- Writing cleaner, better-documented code  
-- Building **portfolio-grade data science projects**
+- Improving model evaluation and performance analysis  
+- Writing clearer documentation and cleaner code  
+- Building **portfolio-quality data science projects**
 
 ---
 
@@ -108,5 +111,5 @@ Published in *International Journal of Innovative Science and Research Technolog
 
 ---
 
-*This profile reflects continuous learning and hands-on practice.  
-I value real understanding over surface-level familiarity.*
+*This profile represents continuous learning and applied practice.  
+I prioritize depth of understanding over superficial familiarity.*
