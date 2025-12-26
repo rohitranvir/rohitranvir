@@ -62,7 +62,7 @@ I have experience across the **end-to-end development lifecycle**, including dat
 - Trained on a **YouTube comments dataset**
 - Built a **Flask web application** for real-time sentiment prediction
 - Implemented user authentication (login & registration)
-- Emphasis on **end-to-end ML workflow** rather than large-scale deployment
+- Focused on **end-to-end ML workflow**, not deployment scale
 
 ### Frontend & Web Applications
 - Uber Clone (HTML, CSS)  
@@ -91,8 +91,7 @@ https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitranvir&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rohitranvir&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitranvir&theme=dark&hide_border=true)
 
 ---
 
@@ -112,6 +111,7 @@ https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf
 - GitHub: https://github.com/rohitranvir  
 
 ---
+
 
 *This profile represents continuous learning and applied practice.  
 I prioritize depth of understanding over superficial familiarity.*
