@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitranvir&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=1800"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitranvir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=1800"/>
 
 ```yaml
 Name        : Rohit Ranvir
