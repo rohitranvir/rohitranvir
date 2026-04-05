@@ -1,118 +1,143 @@
-# Rohit Ranvir
+<div align="center">
 
-Bachelor of Engineering (May 2025)  
-Aspiring Data Scientist & AI Engineer | Java Full Stack Background  
-Pusad, Maharashtra, India  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Ranvir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" />
 
-I am a recent engineering graduate with a focused interest in **Data Science, Machine Learning, and Applied AI**.  
-My work emphasizes **practical problem-solving, strong fundamentals, and writing clean, maintainable code** rather than surface-level implementations.
-
-I have experience across the **end-to-end development lifecycle**, including data preparation, model development, backend integration, and frontend interaction.
+</div>
 
 ---
 
-## Professional Summary
+<div align="center">
 
-- Solid foundation in **Python, Java, and core computer science concepts**
-- Hands-on experience with **machine learning and deep learning workflows**
-- Practical exposure to **Flask-based web applications** for ML integration
-- Background in **Java Full Stack Development**
-- Experience working with **structured and unstructured datasets**
-- Strong preference for **clarity, correctness, and readable code**
+### 👋 Hi, I'm Rohit Ranvir
 
----
+**B.E. Graduate (May 2025) · Pusad, Maharashtra, India**  
+Aspiring Data Scientist & AI Engineer with a Java Full Stack background.  
+I build end-to-end ML pipelines, Flask-powered AI apps, and clean web interfaces.
 
-## Technical Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitranvirportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-ranveer)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitranveer358@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@the.rohit.....?si=cnEap-vu5ahg-bhJ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_nextin11)
 
-### Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- C  
-
-### Data Science & Machine Learning
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- TensorFlow (CNN-based models)  
-- Data preprocessing & feature engineering  
-- Model evaluation and result interpretation  
-
-### Web & Backend Development
-- HTML, CSS, JavaScript  
-- React (basic to intermediate)  
-- Flask  
-
-### Databases
-- MySQL  
-- Oracle  
-
-### Tools & Platforms
-- Git & GitHub  
-- Postman  
-- Jupyter Notebook  
-- Visual Studio Code  
+</div>
 
 ---
 
-## Selected Projects
+## 🚀 About Me
 
-### Sentiment Analysis Using Deep Learning
-- Developed a **CNN-based sentiment analysis model** using TensorFlow  
-- Trained on a **YouTube comments dataset**
-- Built a **Flask web application** for real-time sentiment prediction
-- Implemented user authentication (login & registration)
-- Focused on **end-to-end ML workflow**, not deployment scale
-
-### Frontend & Web Applications
-- Uber Clone (HTML, CSS)  
-- Movie Website (HTML, CSS, JavaScript)  
-- Weather Application  
-- To-Do List Application  
-- GitHub Profile Finder  
-
-These projects strengthened my understanding of **frontend logic, API usage, and frontend–backend coordination**.
+```python
+rohit = {
+    "name"        : "Rohit Ranvir",
+    "role"        : ["Data Scientist", "AI Engineer", "Full Stack Developer"],
+    "focus"       : ["Machine Learning", "Deep Learning", "Applied AI"],
+    "education"   : "B.E. in Computer Engineering (May 2025)",
+    "published"   : "IJISRT — Sentiment Analysis via Deep Learning (March 2025)",
+    "currently"   : "Building portfolio-quality DS projects & sharpening ML fundamentals",
+    "motto"       : "Depth over familiarity. Clarity over cleverness."
+}
+```
 
 ---
 
-## Research Publication
+## 🛠️ Tech Stack
 
-**Exploring Sentiment Analysis through Deep Learning: A Comprehensive Review**  
-*International Journal of Innovative Science and Research Technology (IJISRT)*, March 2025  
+**Languages**
 
-**Citation (APA):**  
-Ranvir, R., & Co-Author. (2025). *Exploring sentiment analysis through deep learning: A comprehensive review*.  
-International Journal of Innovative Science and Research Technology, 10(2).  
-https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
 
----
+**Data Science & ML**
 
-## GitHub Activity
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitranvir&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+**Web & Backend**
 
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitranvir&theme=dark&hide_border=true)
+**Databases & Tools**
 
----
-
-## Current Focus
-
-- Strengthening machine learning fundamentals  
-- Improving model evaluation and performance analysis  
-- Writing clearer documentation and cleaner code  
-- Building **portfolio-quality data science projects**
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/rohit-ranveer  
-- Email: rohitranveer358@gmail.com  
-- GitHub: https://github.com/rohitranvir  
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
+## 🔬 Selected Projects
 
-*This profile represents continuous learning and applied practice.  
-I prioritize depth of understanding over superficial familiarity.*
+### 🧠 Sentiment Analysis Using Deep Learning
+> CNN model trained on YouTube comments · Flask web app with auth · End-to-end ML pipeline
+> 
+> `TensorFlow` `Flask` `Python` `Deep Learning` `User Auth`
+
+### 🛒 QuickMart Pusad Delivery
+> Local delivery platform built with TypeScript
+>
+> `TypeScript` `Full Stack`
+
+### 📊 Data Science Portfolio
+> Real-world data projects covering EDA, ML modelling, and analysis
+>
+> `Python` `Jupyter` `Pandas` `Scikit-learn`
+
+### 🌐 Web Projects
+> Uber Clone · Movie Website · Weather App · To-Do App · GitHub Profile Finder
+>
+> `HTML` `CSS` `JavaScript` `APIs`
+
+---
+
+## 📄 Research Publication
+
+> **Exploring Sentiment Analysis through Deep Learning: A Comprehensive Review**  
+> *International Journal of Innovative Science and Research Technology (IJISRT)* — March 2025  
+> 📎 [Read the Paper](https://www.ijisrt.com/assets/upload/files/IJISRT25FEB1017.pdf)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitranvir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitranvir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitranvir&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 📈 Strengthening ML fundamentals & model evaluation techniques
+- 🧹 Writing cleaner, well-documented code
+- 🏗️ Building production-quality data science projects
+- 📚 Exploring advanced deep learning architectures
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+*"I prioritize depth of understanding over superficial familiarity."*
+
+</div>
