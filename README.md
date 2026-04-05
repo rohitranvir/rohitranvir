@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&lines=🚀+Building+intelligent+systems+from+data;🧠+CNN+%7C+TensorFlow+%7C+Scikit-learn+%7C+Flask;📊+End-to-end+ML+pipelines+that+ship+to+production;📄+Published+Researcher+—+IJISRT+March+2025;💡+Depth+of+understanding+over+surface-level+hype" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+from+data;CNN+%7C+TensorFlow+%7C+Scikit-learn+%7C+Flask;End-to-end+ML+pipelines+that+ship+to+production;Published+Researcher+%E2%80%94+IJISRT+March+2025;Depth+of+understanding+over+surface-level+hype" alt="Typing SVG" />
 </div>
 
 <br/>
